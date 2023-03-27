@@ -9,7 +9,7 @@
 <br/>
 
 <h3 align="center" > 
-  <img src="https://giphy.com/embed/xT9IgzoKnwFNmISR8I" style="margin-right: 10px;">My Tech stack</h3>
+  <img src="https://icons8.com/icon/aZpzXe5wZP3J/source-code" width="30" height="30" style="margin-right: 10px;">My Tech stack</h3>
 
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
