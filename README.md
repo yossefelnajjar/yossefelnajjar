@@ -10,14 +10,14 @@
 <h3 align="center">Technologies I Use</h3>
 <p align="center">
  <div align="center" class="icons-social" style="margin-left: 10px;">
-    <img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="html" width="35px" height="35px">
-    <img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="css" width="35px" height="35px">
-    <img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="35px" height="35px">
-    <img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="react" width="35px" height="35px">
-    <img src="https://github.com/get-icon/geticon/raw/master/icons/redux.svg" alt="redux" width="35px" height="35px">
-    <img src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="sass" width="35px" height="35px">
-    <img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" alt="tailwindcss" width="35px" height="35px">
-    <img src="https://github.com/get-icon/geticon/raw/master/icons/git.svg" alt="git" width="35px" height="35px">
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="html" width="33px" height="33px">
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="css" width="33px" height="33px">
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="33px" height="33px">
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="react" width="33px" height="33px">
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/redux.svg" alt="redux" width="33px" height="33px">
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="sass" width="33px" height="33px">
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" alt="tailwindcss" width="33px" height="33px">
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/git.svg" alt="git" width="33px" height="33px">
  </div>
 </p>
 
