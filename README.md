@@ -13,11 +13,12 @@
 
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-    <a target="_blank" href="https://www.linkedin.com/in/yossef-elnajjar-548772260/">
-	<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
-    </a>	
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px">
+	 <img src="https://github.com/get-icon/geticon/raw/master/icons/git.svg" alt="JavaScript" width="21px" height="21px">
  </div>
 </p>
+
+<br/>
 
 
 <h3 align="center" > 
