@@ -8,13 +8,11 @@
 - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>
 
-<h3 align="center" > 
-  <img src="https://icons8.com/icon/aZpzXe5wZP3J/source-code" width="30" height="30" style="margin-right: 10px;">My Tech stack</h3>
-
+<h3 align="center">Technologies I Use</h3>
 <p align="center">
- <div align="center"  class="icons-social" style="margin-left: 10px;">
+ <div align="center" class="icons-social" style="margin-left: 10px;">
     <img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px">
-	 <img src="https://github.com/get-icon/geticon/raw/master/icons/git.svg" alt="JavaScript" width="21px" height="21px">
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/git.svg" alt="git" width="30px" height="30px">
  </div>
 </p>
 
