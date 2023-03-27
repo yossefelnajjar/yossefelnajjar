@@ -4,7 +4,6 @@
 <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 - 🔭 I’m currently seeking for a job
-- 🤝 I’m available for freelancing.
 - 📫 How to reach me **yossefelnajjar@gmail.com**
 - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>
