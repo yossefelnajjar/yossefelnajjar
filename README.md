@@ -11,8 +11,8 @@
 <h3 align="center">Technologies I Use</h3>
 <p align="center">
  <div align="center" class="icons-social" style="margin-left: 10px;">
-    <img src="https://github.com/get-icon/geticon/raw/master/icons/html.svg" alt="html" width="30px" height="30px">
-    <img src="https://github.com/get-icon/geticon/raw/master/icons/css.svg" alt="css" width="30px" height="30px">
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="html" width="30px" height="30px">
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="css" width="30px" height="30px">
     <img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="30px" height="30px">
     <img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="react" width="30px" height="30px">
     <img src="https://github.com/get-icon/geticon/raw/master/icons/redux.svg" alt="redux" width="30px" height="30px">
