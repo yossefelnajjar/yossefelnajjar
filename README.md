@@ -28,5 +28,5 @@
 <h3 align="center" > 
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 
 	<a target="_blank" href="https://www.linkedin.com/in/yossef-elnajjar-548772260/">
-	<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" align="center"></a>
+	<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" width="30" height="30" ></a>
 </h3>
