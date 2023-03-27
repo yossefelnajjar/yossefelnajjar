@@ -19,8 +19,6 @@
     <img src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="sass" width="30px" height="30px">
     <img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" alt="tailwindcss" width="30px" height="30px">
     <img src="https://github.com/get-icon/geticon/raw/master/icons/git.svg" alt="git" width="30px" height="30px">
-    <img src="https://github.com/get-icon/geticon/raw/master/icons/github.svg" alt="github" width="30px" height="30px">
-	 
  </div>
 </p>
 
