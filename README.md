@@ -6,7 +6,7 @@
 - 🔭 I’m currently seeking for a job
 - 📫 How to reach me **yossefelnajjar@gmail.com**
 - 📄 Know more about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
-
+<br/>
 <h3 align="center">Technologies I Use</h3>
 <p align="center">
  <div align="center" class="icons-social" style="margin-left: 10px;">
