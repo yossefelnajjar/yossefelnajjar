@@ -26,7 +26,7 @@
 
 <p align="center">
 	<div align="center"  class="icons-social" style="margin-left: 10px;">
-		<a target="_blank" href="https://www.linkedin.com/in/yossef-elnajjar-548772260/">
+		<a target="_blank" href="https://www.linkedin.com/in/yossef-elnajjar/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
 		</a>
 	</div>
