@@ -4,8 +4,8 @@
 <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 - 🔭 Available for Front-end Developer roles
-- 📫 You can reach me at **yossefelnajjar@gmail.com**
-- 📄 Know more about my experiences <a href="https://github.com/yossefelnajjar/portfolio/blob/main/src/assets/CV.pdf" target="blank">Resume</a>
+- 📫 Reach me at **yossefelnajjar@gmail.com**
+- 📄 My experiences <a href="https://github.com/yossefelnajjar/portfolio/blob/main/src/assets/CV.pdf" target="blank">Resume</a>
 <br/>
 <h3 align="center">Technologies I Use</h3>
 <p align="center">
